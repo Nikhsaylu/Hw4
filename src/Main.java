@@ -91,7 +91,7 @@ public class Main {
             System.out.println( "В вагоне" +availableSeat+ " сидячих мест");
         }
         if (availableStand > 0){
-            System.out.println(" В вагоне " +availableStand+ " стоячих мест");
+            System.out.println(" В вагоне " +availableStand+ " стоячих мест.");
         }
     }
         public static void task7() {
@@ -106,7 +106,7 @@ public class Main {
         if (three > max){
             max = three;
         }
-        System.out.println("Максимум из чисел " + one + "," + two + "," + three+ " равен " + max);
+        System.out.println("Максимум из чисел " + one + "," + two + "," + three+ " равен " + max + ".");
 
 
 
