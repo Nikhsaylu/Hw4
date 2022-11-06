@@ -91,7 +91,7 @@ public class Main {
             System.out.println( "В вагоне" +availableSeat+ " сидячих мест");
         }
         if (availableStand > 0){
-            System.out.println(" В вагоне " +availableStand+ " стоячих мест");
+            System.out.println(" В вагоне " +availableStand+ " стоячих мест.");
         }
     }
         public static void task7() {
