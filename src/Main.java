@@ -106,7 +106,7 @@ public class Main {
         if (three > max){
             max = three;
         }
-        System.out.println("Максимум из чисел " + one + "," + two + "," + three+ " равен " + max);
+        System.out.println("Максимум из чисел " + one + "," + two + "," + three+ " равен " + max + ".");
 
 
 
